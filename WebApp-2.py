@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-st.title("*Some*")
+st.title("*Machine Learning App*")
 image=Image.open("E:\Data Science\Streamlit\Images\WebApp-2.png")
 st.image(image,use_column_width=True)
 
