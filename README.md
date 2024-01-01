@@ -13,6 +13,16 @@ This web application project is created using Streamlit and utilizes machine lea
 ![Screenshot (56)](https://github.com/miteshgupta07/Streamlit-Machine-Learning-App/assets/111682782/6b11bc1d-6371-48a4-a177-7112f3d8abd1)
 
 
+## Prerequisites
+- Python 3.8
+- Dependencies List -
+- **Streamlit:** A framework library in python for creating web application.
+  - Install: `pip install streamlit`
+
+- **Scikit Learn:** A Machine Learning Library in python.
+  - Install: `pip install scikit-learn`
+
+
 ## Acknowledgements
 
 - **Streamlit:** Special thanks to the Streamlit team for providing an excellent framework for building interactive web applications with Python.
