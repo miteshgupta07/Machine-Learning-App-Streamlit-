@@ -9,7 +9,8 @@ This web application project is created using Streamlit and utilizes machine lea
 - **Customizable:** Easily configurable to adapt to different models or data.
 ## Demo
 
-![Screenshot (56)](https://github.com/miteshgupta07/temp/assets/111682782/b6ed2bd5-6a13-4249-bcee-155e02c0589f)
+
+![Screenshot (56)](https://github.com/miteshgupta07/Streamlit-Machine-Learning-App/assets/111682782/6b11bc1d-6371-48a4-a177-7112f3d8abd1)
 
 
 ## Acknowledgements
