@@ -26,10 +26,9 @@ This web application project is created using Streamlit and utilizes machine lea
 ## Acknowledgements
 
 - **Streamlit:** Special thanks to the Streamlit team for providing an excellent framework for building interactive web applications with Python.
+  
+- **Scikit-Learn:** A heartfelt acknowledgment to the scikit-learn developers and contributors for their outstanding work on creating a powerful machine learning library in Python.
 
-- **Your Contributors:** A big thank you to all contributors who have dedicated time and effort to enhance this project.
-
-- **Open Source Community:** Gratitude to the broader open-source community for sharing knowledge and fostering collaboration.
 
 ## Contact
 Email : mgmiteshgupta134@gmail.com
