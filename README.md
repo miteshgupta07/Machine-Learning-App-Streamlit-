@@ -16,11 +16,11 @@ This web application project is created using Streamlit and utilizes machine lea
 ## Prerequisites
 - Python 3.8
 - Dependencies List -
-- **Streamlit:** A framework library in python for creating web application.
-  - Install: `pip install streamlit`
-
-- **Scikit Learn:** A Machine Learning Library in python.
-  - Install: `pip install scikit-learn`
+  - **Streamlit:** A framework library in python for creating web application.
+    - Install: `pip install streamlit`
+  
+  - **Scikit Learn:** A Machine Learning Library in python.
+    - Install: `pip install scikit-learn`
 
 
 ## Acknowledgements
