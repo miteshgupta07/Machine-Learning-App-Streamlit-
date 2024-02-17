@@ -1,4 +1,3 @@
-
 # Machine Learning App
 
 This web application project is created using Streamlit and utilizes machine learning models to offer functionality such as EDA(Exploratory Data Analysis), Data Visualisation, Model selection for better prediction.
