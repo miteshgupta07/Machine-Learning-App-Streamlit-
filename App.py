@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score
 
 # Set the title and add an image to the app
 st.title("*Machine Learning App*")
-image = Image.open("E:\Data Science\Streamlit\Images\WebApp-2.png")
+image = Image.open("img.png")
 st.image(image, use_column_width=True)
 
 # Define the main function
