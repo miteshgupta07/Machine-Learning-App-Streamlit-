@@ -30,7 +30,7 @@ This web application project is created using Streamlit and utilizes machine lea
 
 
 ## Contact
-Email : mgmiteshgupta134@gmail.com
+Email : miteshgupta2711@gmail.com
 
 Linkedin : https://www.linkedin.com/in/mitesh-gupta/
 
